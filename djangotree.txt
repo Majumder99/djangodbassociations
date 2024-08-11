@@ -1,0 +1,2 @@
+Class is best instead of function. 
+Model and views will be class based. 
