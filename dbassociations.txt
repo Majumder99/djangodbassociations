@@ -1,0 +1,3 @@
+Database associations:
+Node.js : include use kore korte hoy.
+Django : ForeignKey, Manytomanyfield, onetomanyfield use kore korte hoy. 
